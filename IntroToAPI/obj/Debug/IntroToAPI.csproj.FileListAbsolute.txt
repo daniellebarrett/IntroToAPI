@@ -1,0 +1,12 @@
+C:\ElevenFiftyProjects\IntroToAPI\IntroToAPI\bin\Debug\IntroToAPI.exe.config
+C:\ElevenFiftyProjects\IntroToAPI\IntroToAPI\bin\Debug\IntroToAPI.exe
+C:\ElevenFiftyProjects\IntroToAPI\IntroToAPI\bin\Debug\IntroToAPI.pdb
+C:\ElevenFiftyProjects\IntroToAPI\IntroToAPI\obj\Debug\IntroToAPI.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\IntroToAPI\IntroToAPI\obj\Debug\IntroToAPI.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\IntroToAPI\IntroToAPI\obj\Debug\IntroToAPI.exe
+C:\ElevenFiftyProjects\IntroToAPI\IntroToAPI\obj\Debug\IntroToAPI.pdb
+C:\ElevenFiftyProjects\IntroToAPI\IntroToAPI\bin\Debug\Newtonsoft.Json.dll
+C:\ElevenFiftyProjects\IntroToAPI\IntroToAPI\bin\Debug\Newtonsoft.Json.xml
+C:\ElevenFiftyProjects\IntroToAPI\IntroToAPI\obj\Debug\IntroToAPI.csproj.CopyComplete
+C:\ElevenFiftyProjects\IntroToAPI\IntroToAPI\bin\Debug\System.Net.Http.Formatting.dll
+C:\ElevenFiftyProjects\IntroToAPI\IntroToAPI\bin\Debug\System.Net.Http.Formatting.xml
